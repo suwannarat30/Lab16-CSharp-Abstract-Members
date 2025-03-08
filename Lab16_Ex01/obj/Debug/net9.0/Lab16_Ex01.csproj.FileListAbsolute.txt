@@ -1,0 +1,15 @@
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\bin\Debug\net9.0\Lab16_Ex01.exe
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\bin\Debug\net9.0\Lab16_Ex01.deps.json
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\bin\Debug\net9.0\Lab16_Ex01.runtimeconfig.json
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\bin\Debug\net9.0\Lab16_Ex01.dll
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\bin\Debug\net9.0\Lab16_Ex01.pdb
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.AssemblyInfoInputs.cache
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.AssemblyInfo.cs
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.csproj.CoreCompileInputs.cache
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.sourcelink.json
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.dll
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\refint\Lab16_Ex01.dll
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.pdb
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\Lab16_Ex01.genruntimeconfig.cache
+D:\Lab16-CSharp-Abstract-Members\Lab16_Ex01\obj\Debug\net9.0\ref\Lab16_Ex01.dll
